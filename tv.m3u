@@ -1,6 +1,7 @@
 #EXTM3U
 电视,#genre#
 广东珠江,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 翡翠台[1920*1080],http://23.237.10.66:16106
 财经资讯台,http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有线新闻台,http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
@@ -8,7 +9,7 @@
 明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 
 明星电影,#genre#
-历年贺岁档,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+贺岁档,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
@@ -38,8 +39,6 @@
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 央视频道,#genre#
-超级电影[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225623/index.m3u8
-超级电视剧[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225625/index.m3u8
 CCTV1[1280*720],http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8
 CCTV2[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225643/index.m3u8
 CCTV3[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225647/index.m3u8
@@ -63,7 +62,6 @@ CCTV9[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225626/index.m
 CCTV11[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225628/index.m3u8
 CGTN记录[1024*576],http://39.134.115.221:8080/PLTV/88888910/224/3221225645/index.m3u8
 CCTV5+[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8
-超级体育[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225648/index.m3u8
 
 人文|地理,#genre#
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
@@ -230,43 +228,6 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
-电影,#genre#
-CHC动作电影[1920*1080],http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
-CHC家庭影院[1920*1080],http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
-豆瓣电影,http://epg.112114.xyz/douyu/8770422
-女神经典,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-女神影院,https://pull.kktv8.com/livekktv/99350550.flv
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
-1.华语经典,http://epg.112114.xyz/douyu/434971
-2.吃米滴虫,http://epg.112114.xyz/douyu/315457
-4.神乐影片1,http://epg.112114.xyz/douyu/122402
-5,http://qnmov.a.yximgs.com/upic/2019/06/28/21/BMjAxOTA2MjgyMTE3MThfNDQyOTg2NjQ0XzE0NTU5ODQyMjU2XzFfMw==_b_Bb9fecedeb454ac469e2dfcabbb2ec20b.mp4
-5.神乐影片2,http://epg.112114.xyz/douyu/85894
-6.周末影院,http://epg.112114.xyz/douyu/3637765
-7,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446f07.mp4
-8.特辑影院,http://epg.112114.xyz/douyu/3637778
-11,http://vod-zlr2.tv360.vn/video1/2021/12/24/16/659cee83/659cee83-d080-4f11-a970-f9bad93fe50d_5_.m3u8
-13,https://vd4.bdstatic.com/mda-kc2b015ijvbriss5/v1-cae/sc/mda-kc2b015ijvbriss5.mp4
-14.刘德华电影2,http://epg.112114.xyz/douyu/8985415
-15,https://v.51vimeo.com/ata/attachment/video/1908/417/ba723fe0466d90f84948f081ae6bfd17.mp4
-15.喜剧经典,http://epg.112114.xyz/douyu/9650887
-16.豆瓣高分,http://epg.112114.xyz/douyu/8770422
-26.霍格影片,http://epg.112114.xyz/douyu/8814650
-27.可乐电影,http://epg.112114.xyz/douyu/20415
-29.奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-43.变种人电影,http://epg.112114.xyz/douyu/9651304
-45.小宇60帧,http://epg.112114.xyz/douyu/323876
-47.华语动作电影,http://epg.112114.xyz/douyu/1504768
-48.恐怖电影,http://epg.112114.xyz/douyu/310926
-阿汤哥+007,http://txtest-xp2p.p2p.huya.com/src/1099531752778-1099531752778-86436225421934592-2199063629012-10057-A-0-1.xs
-精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-王晶的玄幻武侠剧,http://txtest-xp2p.p2p.huya.com/src/1420294575-1420294575-6100118750311219200-3048991588-10057-A-0-1.xs
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
-喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-
 央视|频道,#genre#
 CCTV13 新闻,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
 CCTV13 新闻,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
@@ -408,7 +369,7 @@ CCTV央视台球,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125137
 CCTV电视指南,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 CCTV卫生健康,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 
-虎牙|专区,#genre#
+电影|专区,#genre#
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
@@ -437,5 +398,3 @@ CCTV卫生健康,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125135
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-
-
