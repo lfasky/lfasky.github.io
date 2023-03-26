@@ -1,66 +1,63 @@
-# 直播源项目
+[Hux Blog](https://huangxuan.me)
+================================
 
-- [目录](#目录)
-- [**直播源简介**](#直播源仓库简介)
-    - [播放工具推荐](#播放工具推荐)
-- [**电视源**](#电视源)
-  - [**互联网收集直播源**](#互联网收集直播源)
-    - [txt文件](#txt文件)
-    - [更新日志](#更新日志)
-- [**鸣谢**](#鸣谢)  
----
----
+> I never expect this becomes popular.
 
-# **直播源简介**
-
-直播源，主要以分享全球IPTV直播源为主，所有电视直播源均收集于互联网并经过精挑细选而成。
-IPTV内含有世界各国电视直播广播频道，因各国文件差异及认知水平不同在收看节目时请理性思考。
-
-直播源项目包括：电视直播，关注直播源，直播源关注世界，世界在您身边！
-
-直播源IPTV TG频道：https://t.me/Axkzz
-
----
-
-## 播放工具推荐
-> * Windows端：Potplayer、vlc
-> 
-> * 电视端：Kodi、TiviMate
-> 
-> * 安卓手机端：Televizo
-> 
-> * IOS手机端：APTV
-> 
-> 
----
-
-# **电视源**
-## **电视源目录导航**
-* [互联网收集直播源](#互联网收集直播源)
-
----
-
-## **互联网收集直播源**
-直播源从互联网以及群友分享的节目源中检测整理的节目源，精简好用。
+![](http://huangxuan.me/img/blog-desktop.jpg)
 
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.12.21-brightgreen?style=for-the-badge)
+[User Manual 👉](_doc/Manual.md)
+--------------------------------------------------
 
-### txt文件
+### Getting Started
 
-> https://lfasky.github.io/tv.txt
-> 
-> 
-> 
+1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
 
-### 更新日志
-> **2022.12.21**：随缘更新。
-> 
+2. Installed dependencies in the `Gemfile`:
 
----
+```sh
+$ bundle install 
+```
 
-## 鸣谢
+3. Serve the website (`localhost:4000` by default):
 
-感谢  [google](https://google.com/) 提供搜索服务！
+```sh
+$ bundle exec jekyll serve  # alternatively, npm start
+```
+
+### Development (Build From Source)
+
+To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
+
+Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
+
+Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
+
+This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
 
 
+### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
+
+
+Other Resources
+---------------
+
+Ports
+- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
+- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
+
+[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
+- Out of date. Helps wanted for updating it on par with the main repo
+
+Translation
+- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
+
+
+License
+-------
+
+Apache License 2.0.
+Copyright (c) 2015-present Huxpro
+
+Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+Copyright (c) 2013-2016 Blackrock Digital LLC.
