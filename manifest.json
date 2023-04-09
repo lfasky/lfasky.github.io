@@ -1,0 +1,24 @@
+{
+  "name": "IIVV - Telegram频道导航",
+  "short_name": "IIVV",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "share_target": {
+      "action": "compose",
+      "params": {
+        "title": "title",
+        "text": "text",
+        "url": "url"
+    }
+  },
+  "theme_color": "#FFFFFF",
+  "background_color": "transparent",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
