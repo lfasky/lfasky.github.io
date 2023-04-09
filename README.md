@@ -12,7 +12,7 @@ IIVV - Telegram频道导航。收录Telegram上的优质频道，打造一个高
 
 IIVV的维护需要一定的人力物力，在此过程中离不开大家的支持。
 
-[点击此处](https://www.iivv.eu.org/) 支持我们。您的支持是我们前进的动力！
+[点击此处](https://afdian.net/a/ixic-) 支持我们。您的支持是我们前进的动力！
 
 ![支持](https://www.iivv.eu.org/)
 
